@@ -1,0 +1,60 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "title": "Ração Premier Fórmula para Cães Sênior", 
+      "description": "Indicada para cães sênior, envelhecimento saudável, suporte diferenciado para articulações senis, saúde intestinal, minimiza o tártaro ou cálculo dentário, com a presença do hexametafostato, importante ingrediente para a saúde bucal." ,
+      "price":245,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/racao1.png"
+    },
+    { 
+      "id": 2, 
+      "title": "Ração Royal Canin Maxi para Cães Adultos", 
+      "description": "Quirera de arroz, milho integral moído*, farinha de vísceras de aves, farinha de proteína isolada de suíno, gordura suína, glúten de milho*, polpa de beterraba, óleo de peixe refinado, óleo de soja refinado*, levedura seca de cervejaria, gordura de frango, zeolita, sulfato de condroitina, hidrocloreto de glicosamina, extrato de Marigold, cloreto de sódio (sal comum), cloreto de potássio, carbonato de cálcio, fosfato bicálcico, fosfato monocálcico, fosfato monossódico, vitaminas (A, C, E, D3, B1, B2, B6, B12, PP)",
+      "price": 476.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/racao2.png"
+    },
+    { 
+      "id": 3, 
+      "title": "Ração Úmida Premier Orgânico para Cães Adultos", 
+      "description": "Água, carne de aves orgânica (frango - 37%), sementes de chia orgânicas, quinoa orgânica, goma guar, vitamina A, vitamina B12, vitamina C, vitamina D3, vitamina E, vitamina K3, ácido fólico, ácido pantotênico, biotina, cloreto de colina, niacina, piridoxina, riboflavina, tiamina, selênio metionina.",
+      "price": 8.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/racao3.png"
+    },
+    { 
+      "id": 4, 
+      "title": "Ração Royal Canin Medium Ageing 15kg", 
+      "description": "Com o passar do tempo, assim como nós, os cães precisam de certos cuidados – e um deles é com a alimentação. Com a Ração Para Cães Idosos Royal Canin, por sua vez, os pets tem uma vida mais saudável e duradoura.",
+      "price": 545.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/racao4.png"
+    },
+    { 
+      "id": 5, 
+      "title": "Brinquedo Interativo Pet Games Petball para Cães", 
+      "description": "As brincadeiras são parte super importante na rotina dos nossos amigos de quatro patas. Além de serem muito divertidas, elas contribuem para um desenvolvimento saudável e feliz. Por isso, vale a pena conhecer o Petball, um brinquedinho incrível que deixará os momentos de descontração do seu cãozinho ainda melhores!",
+      "price": 29.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/brinq1.png"
+    },
+    { 
+      "id": 6, 
+      "title": "Brinquedo Líder Pet Bola Cravo para Cães - Cores Sortidas", 
+      "description": "As brincadeiras são parte super importante na rotina dos nossos amigos de quatro patas. Além de serem muito divertidas, elas contribuem para um desenvolvimento saudável e feliz. Por isso, vale a pena conhecer o Petball, um brinquedinho incrível.",
+      "price": 9.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/brinq2.png"
+    },
+    { 
+      "id": 7, 
+      "title": "Brinquedo Chalesco Macaco Pelúcia Marrom para Cães", 
+      "description": "Ter um momento de lazer com o seu animal de estimação é fundamental. Seja no parque ou dentro de casa, essa atividade é aproveitada pelo pet em qualquer idade. E os cãezinhos adoram ter um brinquedo para sua diversão. Pensando nisso, a Chalesco desenvolveu um macaquinho de pelúcia.",
+      "price": 34.99,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/brinq3.png"
+    },
+    { 
+      "id": 8, 
+      "title": "Brinquedo Chalesco Pelúcia Polvo Colorido para Cães", 
+      "description": "É extremamente importante que seu bichinho de estimação tenha momentos de lazer e desfrute de muitas brincadeiras. Por isso, oferecer brinquedos como um bicho de pelúcia para cachorro pode ser a melhor escolha! ",
+      "price": 50.00,
+      "cover": "https://sujeitoprogramador.com/wp-content/uploads/2023/06/brinq4.png"
+    }
+  ]
+}
