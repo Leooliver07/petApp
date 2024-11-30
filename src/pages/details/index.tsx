@@ -35,6 +35,10 @@ export function Details(){
         
     }
 
+    if (!product) {
+        return <p>Loading....</p>
+    }
+
     return(
         <main>
             <h1 className="mt-20 text-2xl font-bold font-serif text-center mb-10">Detalhes do produto</h1>
