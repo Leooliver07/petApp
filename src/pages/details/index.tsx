@@ -22,7 +22,7 @@ export function Details(){
 
     },[id])
 
-    function handleAddCartItem(product:ProductProp){
+    function handleAddCartItem(product:ProductProps){
         toast.success("Produto adicionado no carrinho",{
             style:{
               borderRadius: 10,
